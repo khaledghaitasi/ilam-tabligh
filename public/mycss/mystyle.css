@@ -1,0 +1,62 @@
+@font-face {
+    font-family: byekan;
+    src:url("public/font/BYekan/BYekan+.ttf") format('ttf');
+}
+
+
+body{
+    /*
+    font-family:'byekan';
+    */
+font-weight: bold;
+}
+
+main {
+    width: auto;
+    background: rgba(0,100,250,0.3);
+    direction: rtl;
+    /*
+    margin:70px 0 10px 0;
+    */
+}
+
+
+main::after {
+
+    display: block;
+    content: "";
+    clear: both;
+}
+.myheader{
+    height: 60px;
+    color:#fff;
+    position: relative;
+}
+.myheader #vorood,#sabtnam{
+    width: 50px;
+    height: 50px;
+    display: block;
+    line-height: 45px;
+    font-size: 10pt;
+    margin-top: 5px;
+    text-align: center;
+    cursor:pointer;
+}
+.myheader #logo{
+    display: block;
+    position: absolute;
+    height: 50px;
+    margin-top: 5px;
+    width: 275px;
+    overflow: hidden;
+    left: 10px;
+}
+.main-section{
+}
+.aside1{
+    background-color: #eee;
+}
+
+/*********slick*******/
+
+/**************slick**********************/
