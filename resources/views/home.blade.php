@@ -149,7 +149,7 @@
 
             <div class="col-xs-6 float-right rounded text-danger text-center"
                  style="height: 221px;width: 49%;margin-right: 13px;background:rgba(0,0,255,0.03);line-height: 210px;">
-                <p class="m-auto">جایی برای دیده شدن</p>
+                <p class="m-auto">خدمات خود را به تماشا بگذارید</p>
             </div>
             <div class="col-xs-6  float-right rounded text-primry text-center"
                  style="height:221px;width: 49%;background:rgba(0,255,0,0.03);line-height: 210px;">
