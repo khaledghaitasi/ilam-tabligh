@@ -153,7 +153,7 @@
             </div>
             <div class="col-xs-6  float-right rounded text-primry text-center"
                  style="height:221px;width: 49%;background:rgba(0,255,0,0.03);line-height: 210px;">
-                <p>جایی برای دیده شدن </p>
+                <p>تبلیغات هزینه نیست سرمایه است </p>
             </div>
         </section>
         <aside class="aside1 h-75 mt-1 col-md-3  float-sm-left rounded mb-3">
